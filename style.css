@@ -59,3 +59,17 @@ body {
 .final:hover {
     color: antiquewhite;
 }
+
+.navegar {
+    text-align: center;
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+
+.navegar a {
+    padding-left: 20px;
+}
+
+.navegar a:hover{
+    color: rgb(8, 146, 8);
+}
