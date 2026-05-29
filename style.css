@@ -23,6 +23,7 @@ body {
 .logo img{
     width: 30.3%;
     border-radius: 20px;
+    height: 370px
 }
 
 .logo {
@@ -43,9 +44,18 @@ body {
     border: 1px solid blue;
     background-color: gray;
     color: brown;
-    padding: 8px;
+    padding: 20px;
     font-family: Arial, Helvetica, sans-serif;
     margin: 10px;
     margin-bottom: 20px;
     border-radius: 10px;
+}
+
+.titulo:hover {
+    color: antiquewhite;
+}
+
+
+.final:hover {
+    color: antiquewhite;
 }
